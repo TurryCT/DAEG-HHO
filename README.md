@@ -36,3 +36,8 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
     ├── HHO_Sobol_DAEG_Rayleigh.m
     ├── compute_fitness_base.m
 ```
+## Forward Modeling Code Availability
+
+The forward modeling code used in this study is not publicly included in the current repository. Researchers who require access to the forward solver for academic and non-commercial purposes may contact the author at:
+
+**Email:** cuitong@mail.sdu.edu.cn
