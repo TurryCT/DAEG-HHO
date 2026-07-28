@@ -9,15 +9,11 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
 │   ├── run_fundamental_inversion.m
 │   ├── HHO_Sobol_DAEG_Rayleigh.m
 │   ├── compute_fitness_base.m
-│   ├── calcmulti.m
-│   └── fastcalc.m
 │
 ├── Multimodal_Inversion/
 │   ├── run_multimodal_inversion.m
 │   ├── HHO_Sobol_DAEG_Rayleigh.m
 │   ├── compute_fitness_mask.m
-│   ├── calcmulti.m
-│   └── fastcalc.m
 │
 ├── Algorithm_Comparison/
 │   ├── run_algorithm_comparison.m
@@ -31,9 +27,6 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
 │   ├── HHO_Rayleigh_Standard.m
 │   ├── HHO_Sobol_DAEG_Rayleigh.m
 │   ├── compute_fitness_base.m
-│   ├── calcbase.m
-│   ├── calcmulti.m
-│   └── fastcalc.m
 │
 └── Ablation_Study/
     ├── run_ablation_study.m
@@ -42,7 +35,6 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
     ├── HHO_Sobol_Rayleigh.m
     ├── HHO_Sobol_DAEG_Rayleigh.m
     ├── compute_fitness_base.m
-    ├── calcmulti.m
-    └── fastcalc.m
+
 
 MATLAB function filenames must match the first function defined in each file.
