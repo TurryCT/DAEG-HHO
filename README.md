@@ -35,6 +35,4 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
     ├── HHO_Sobol_Rayleigh.m
     ├── HHO_Sobol_DAEG_Rayleigh.m
     ├── compute_fitness_base.m
-
-
-MATLAB function filenames must match the first function defined in each file.
+```
