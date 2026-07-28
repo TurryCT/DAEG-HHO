@@ -1,4 +1,6 @@
 ## Repository Structure
+
+```text
 DAEG-HHO-Rayleigh-Wave-Inversion/
 │
 ├── README.md
@@ -42,6 +44,6 @@ DAEG-HHO-Rayleigh-Wave-Inversion/
     ├── compute_fitness_base.m
     ├── calcmulti.m
     └── fastcalc.m
-
+```
 
 MATLAB function filenames must match the first function defined in each file.
